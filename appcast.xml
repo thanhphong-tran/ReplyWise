@@ -4,14 +4,14 @@
         <title>ReplyWise</title>
         <item>
             <title>appcast</title>
-            <pubDate>Sun, 22 Mar 2026 12:23:44 +0700</pubDate>
+            <pubDate>Sun, 22 Mar 2026 16:54:04 +0700</pubDate>
             <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure 
-                       url="https://github.com/thanhphong-tran/ReplyWise/releases/download/v1.0.0/ReplyWise_1.0.0.zip"
-                       sparkle:edSignature="hEaD0/SgbCDnstIlszqAMX1sfknrngtYA7AvFx9ieb85Eu4PoHXHrIsW3QndR+Cw9Md5t20LgZ2omrqLyrISBQ==" 
-                       length="4519714"
+                       url="https://github.com/thanhphong-tran/ReplyWise/releases/download/v1.0.1/ReplyWise_1.0.1.zip"
+                       sparkle:edSignature="gaGtHWx05Z7X1mBNHlNHpBEOmOR5v/Iizyjr7up2LTDZxqy5dFiw1i7+IfzOVmDkawPj9CU3dylcBOJO2pDJDQ==" 
+                       length="4444301"
                        type="application/octet-stream"
                        />
         </item>

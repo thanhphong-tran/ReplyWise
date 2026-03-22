@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ReplyWise</title>
+        <item>
+            <title>appcast</title>
+            <pubDate>Sun, 22 Mar 2026 12:22:00 +0700</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure 
+                       url="Release v1.0.0 already exists. Uploading asset (overwriting if present)...
+https://github.com/thanhphong-tran/ReplyWise/releases/download/v1.0.0/ReplyWise_1.0.0.zip"
+                       sparkle:edSignature="MUgb6tGJWJH1vx41W5wtoi+MdisoAykWb36Djv9HiuH1JfryPEXMq4EngHqAfz9n/nHai7Rnuts6LidygqzXDQ==" 
+                       length="4519714"
+                       type="application/octet-stream"
+                       />
+        </item>
+    </channel>
+</rss>
